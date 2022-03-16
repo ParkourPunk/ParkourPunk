@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=React&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-React_Native-informational?style=flat&logo=React&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=Expo&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Mobx-informational?style=flat&logo=mobx-state-tree&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Mobx_State_Tree-informational?style=flat&logo=mobx-state-tree&logoColor=white&color=blueviolet)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkourPunk)](https://github.com/anuraghazra/github-readme-stats) -->
