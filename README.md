@@ -1,11 +1,11 @@
 
-[![Header](https://github.com/ParkourPunk/ParkourPunk/blob/main/header.png)](https://github.com/ParkourPunk)
+[![Header](https://github.com/ParkourPunk)
 
 
 
 
 # Hello there🌑
-My name is Casey Pazera and I'm a software developer. I'm from South Africa, living in the United Kingdom.
+My name is Casey Pazera and I'm a software developer.
 
 
 
